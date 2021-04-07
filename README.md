@@ -1,6 +1,6 @@
 # DNS-Query-Resolver
 - Iteratively resolves a dns query
-- Returns an IP address of a web for an A Type record
+- Returns an IP address for an A Type record
 - Returns the name of a mail server associated with the given hostname
 
 
